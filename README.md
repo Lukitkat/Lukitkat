@@ -90,6 +90,8 @@ Me chamo Lucas Ferreira da Rocha, tenho 22 anos e moro em Fortaleza, Ceará. Con
 <br/>
 <br/>
 
+---
+
 ### Estatísticas
 
 <p>
